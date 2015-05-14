@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\SoftUni\Lab 13-05-2015\03.InsertionSort\bin\Debug\03.InsertionSort.exe.config
+E:\Visual Studio Projects\SoftUni\Lab 13-05-2015\03.InsertionSort\bin\Debug\03.InsertionSort.exe
+E:\Visual Studio Projects\SoftUni\Lab 13-05-2015\03.InsertionSort\bin\Debug\03.InsertionSort.pdb
+E:\Visual Studio Projects\SoftUni\Lab 13-05-2015\03.InsertionSort\obj\Debug\03.InsertionSort.exe
+E:\Visual Studio Projects\SoftUni\Lab 13-05-2015\03.InsertionSort\obj\Debug\03.InsertionSort.pdb
+E:\Visual Studio Projects\SoftUni\Lab 13-05-2015\03.InsertionSort\obj\Debug\03.InsertionSort.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\SoftUni\Lab 13-05-2015\05.LargestRectangle\bin\Debug\05.LargestRectangle.exe.config
+E:\Visual Studio Projects\SoftUni\Lab 13-05-2015\05.LargestRectangle\bin\Debug\05.LargestRectangle.exe
+E:\Visual Studio Projects\SoftUni\Lab 13-05-2015\05.LargestRectangle\bin\Debug\05.LargestRectangle.pdb
+E:\Visual Studio Projects\SoftUni\Lab 13-05-2015\05.LargestRectangle\obj\Debug\05.LargestRectangle.exe
+E:\Visual Studio Projects\SoftUni\Lab 13-05-2015\05.LargestRectangle\obj\Debug\05.LargestRectangle.pdb
+E:\Visual Studio Projects\SoftUni\Lab 13-05-2015\05.LargestRectangle\obj\Debug\05.LargestRectangle.csprojResolveAssemblyReference.cache
